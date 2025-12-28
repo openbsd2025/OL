@@ -133,7 +133,7 @@ CKEMin：Clock Enable Minimum，时钟使能最小值
 
 CKEMin 的计时器数值，范围 [255；0]。要求最小值为 SC_ROUND_T（系统时钟周期的数量） + BYTE_LENGTH（4）（字节长度，一般是 4）。
 
-##### Allow Opp Ref Below Write Threhold（允许在写入阈值以下的机会刷新）
+##### Allow Opp Ref Below Write Threshold（允许在写入阈值以下的机会刷新）
 
 选项：
 
