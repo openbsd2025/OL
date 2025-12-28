@@ -2042,7 +2042,7 @@ Enable（启用）
 
 KT 设备即 Intel 管理引擎的硬件接口设备，操作系统通过该设备与 Intel 管理引擎进行通信。
 
-#### DOI3 Setting for HECI Disable（DOI3 设置：用于禁用 HECI）
+#### D0i3 Setting for HECI Disable（D0i3 设置：用于禁用 HECI）
 
 选项：
 
