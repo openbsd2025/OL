@@ -3990,7 +3990,7 @@ Disabled（禁用）
 
 说明：
 
-xDI，eXtensible Device Controller Interface，可扩展的设备控制器接口
+xDCI，eXtensible Device Controller Interface，可扩展的设备控制器接口
 
 USB OTG 设备支持。
 
@@ -4458,9 +4458,9 @@ SoundWire 链路编号 x 的自主时钟停止。“x”表示链路编号。
 
 No Dmic to codec（不配置数字麦克风）
 
-4 Dmic to codec（2 个数字麦克风通道）
+4 Dmic to codec（4 个数字麦克风通道）
 
-2 Dmic to codec（4 个数字麦克风通道）
+2 Dmic to codec（2 个数字麦克风通道）
 
 说明：
 配置数字麦克风接入 ALC245
@@ -6184,13 +6184,13 @@ SGMII：Serial Gigabit Media Independent Interface，串行千兆媒体独立接
 
 选项：
 
-24MHz 2.5Gbps
+24MHz 2.5 Gbps
 
-24MHz 1Gbps
+24MHz 1 Gbps
 
-38.4MHz 2.5Gbps
+38.4MHz 2.5 Gbps
 
-38.4MHz 1bps
+38.4MHz 1 Gbps
 
 说明：
 
