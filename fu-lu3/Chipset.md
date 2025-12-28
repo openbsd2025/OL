@@ -1810,7 +1810,7 @@ PPR，Post Package Repair，封装后修复。
 
 PPR 会在可能的情况下永久修复出错的行。PPR 是一种内存自我修复过程，在该过程中，系统会将对故障存储单元或地址行的访问替换为对 DRAM 设备中备用行的访问。
 
-#### SAM Overlaoding（SAM 过载）
+#### SAM Overloading（SAM 过载）
 
 选项：
 
