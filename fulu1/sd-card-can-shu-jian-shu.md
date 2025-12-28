@@ -74,7 +74,7 @@ microSD 也即我们所说的 TF 卡（类似于 EFI 和 UEFI 的关系）、手
 
 我们可以用 `CrystalDiskInfo` 查看硬盘的 S.M.A.R.T. 信息及基本参数。还可以用 `CrystalDiskMark` 测试硬盘和存储卡的读写（请使用 USB 3.0 的读卡器！）
 
-上述两款软件是同开发者开发的，但是其 [官方网站](https://crystalmark.info/en/) 不知道为什么，插了很多虚假广告，诱导下载错误的文件。
+上述两款软件是同一位开发者开发的，但是其 [官方网站](https://crystalmark.info/en/) 不知道为什么，插了很多虚假广告，诱导下载错误的文件。
 
 请从 **[这里](https://sourceforge.net/projects/crystaldiskinfo)** 下载 CrystalDiskInfo；请从 **[这里](https://sourceforge.net/projects/crystaldiskmark/files/)** 下载 CrystalDiskMark；
 
