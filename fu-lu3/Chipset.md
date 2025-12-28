@@ -2739,7 +2739,7 @@ WRC，write cache，写缓存。WRC 功能启用 Intel® 数据直通 I/O 技术
 
 参见 [https://webdls.ieiworld.com/data/\_prod-detail-feature/DRPC-DEV-KIT/Real-Time-Tuning-Guide-11th-Gen-Intel-Core-Processors-1.4.pdf](https://webdls.ieiworld.com/data/_prod-detail-feature/DRPC-DEV-KIT/Real-Time-Tuning-Guide-11th-Gen-Intel-Core-Processors-1.4.pdf)、[file:///D:/improving-real-time-performance-of-codesys-control-applications-with-intel-s-real-time-technologies-1723443578.pdf](file:///D:/improving-real-time-performance-of-codesys-control-applications-with-intel-s-real-time-technologies-1723443578.pdf)
 
-### Above 4GB MIIO BIOS assignment（BIOS 4GB 以上 MMIO 分配）
+### Above 4GB MMIO BIOS assignment（BIOS 4GB 以上 MMIO 分配）
 
 选项：
 
