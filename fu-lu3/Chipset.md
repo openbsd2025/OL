@@ -153,7 +153,7 @@ Disabled（禁用）
 
 ##### Write Threshold（写入阈值）
 
-配合 Allow Opp Ref Below Write Threhold（允许在写入阈值以下的机会刷新）使用。
+配合 Allow Opp Ref Below Write Threshold（允许在写入阈值以下的机会刷新）使用。
 
 在 CKE（时钟使能）为低电平期间，允许累积的写入次数（内存控制器允许积累的最大写入操作次数。一旦达到此阈值，内存控制器可能会强制退出低功耗模式，处理积累的写入操作），直到重新使能 CKE（CKE 被置为高电平）。
 
