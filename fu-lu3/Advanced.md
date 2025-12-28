@@ -560,7 +560,7 @@ Monitor 指令用于监控某个内存区域的写入操作，而 MWait 指令�
 
 这个是配合上面的 AP threads Idle Manner（AP 线程空闲模式）一起使用的。增强型 vSphere 计算（Enhanced vMotion Compatibility，EVC）也需要开启该选项。
 
-### Intel® Trusted Executed Technology（英特尔可信执行技术/TXT）
+### Intel® Trusted Execution Technology（英特尔可信执行技术/TXT）
 
 选项
 
