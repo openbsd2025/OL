@@ -78,7 +78,7 @@ microSD 也即我们所说的 TF 卡（类似于 EFI 和 UEFI 的关系）、手
 
 请从 **[这里](https://sourceforge.net/projects/crystaldiskinfo)** 下载 CrystalDiskInfo；请从 **[这里](https://sourceforge.net/projects/crystaldiskmark/files/)** 下载 CrystalDiskMark；
 
-而 **不要** 去访问他的网站，因为上面才是最终存放文件的地方，你访问网站最终也会被转跳到这里。
+而 **不要** 去访问他的网站，因为上面才是最终存放文件的地方，你访问网站最终也会被跳转到这里。
 
 在撰写本文时，笔者下载使用的是 `CrystalDiskInfo9_3_2Shizuku.exe` 和 `CrystalDiskMark8_0_5Shizuku.exe`。因为好看，如果不需要花哨的颜色，你可以分别选择“CrystalDiskInfo9_3_2.exe”、“CrystalDiskMark8_0_5.exe”代替之。
 
