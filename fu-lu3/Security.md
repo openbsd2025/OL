@@ -142,7 +142,7 @@ No（否）
 
 ![](../.gitbook/assets/image-20250726132101-9ohwdmq.png)
 
-#### Factory Key Provision（下发出厂密钥）
+#### Factory Key Provision（预置出厂密钥）
 
 选项：
 
@@ -181,7 +181,7 @@ No（否）
 
 文件系统映像文件
 
-允许该映像在安全启动模式下运行。将 PE 镜像的 SHA256 哈希证书注册到授权签名数据库（db）中。
+允许该映像在安全启动模式下运行。将 PE 镜像的 SHA256 哈希值注册到授权签名数据库（db）中。
 
 #### Remove 'UEFI CA' from DB（从数据库中删除 UEFI CA）
 
