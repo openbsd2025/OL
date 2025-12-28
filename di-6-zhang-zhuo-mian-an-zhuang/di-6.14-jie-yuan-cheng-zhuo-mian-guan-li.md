@@ -498,7 +498,7 @@ PS C:\Users\ykla> gpupdate /force  # 强制刷新组策略
 用户策略更新成功完成。
 ```
 
-再测试链接：
+再测试连接：
 
 ```sh
 $ rdesktop 192.168.31.213
