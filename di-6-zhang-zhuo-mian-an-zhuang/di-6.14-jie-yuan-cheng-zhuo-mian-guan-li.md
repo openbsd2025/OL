@@ -373,7 +373,7 @@ root     syslogd     1021 7   udp4   *:514                 *:*
 # make install clean
 ```
 
-使用 FreeBSD 通过 freerdp3 远程链接到 Windows 11 24H2：
+使用 FreeBSD 通过 freerdp3 远程连接到 Windows 11 24H2：
 
 ```sh
 $ xfreerdp3 /u:ykla /p:z  /v:192.168.31.213
