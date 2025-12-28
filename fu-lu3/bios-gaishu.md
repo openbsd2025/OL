@@ -46,4 +46,4 @@ CMOS（Complementary Metal-Oxide-Semiconductor，互补金属氧化物半导体�
 
 清空 CMOS 可清除上述参数。清空方法参见 [主板如何 Clear CMOS](https://www.asus.com.cn/support/faq/1040820/)。
 
-参见 [BIOS 和 CMOS 有什么不同？](https://iknow.lenovo.com.cn/detail/043962?type=undefined&keyword=BIOS&keyWordId=)
+参见 [BIOS 和 CMOS 有什么不同？](https://iknow.lenovo.com.cn/detail/043962?type=undefined&keyword=BIOS&keyWordId=)。
