@@ -1927,7 +1927,7 @@ Enable（启用）
 
 ### ME Debug Configuration（Intel 管理引擎调试配置）
 
-#### HECI Timeous（HECI 超时）
+#### HECI Timeout（HECI 超时）
 
 
 选项：
