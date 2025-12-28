@@ -2612,7 +2612,7 @@ Enable IOMMU during boot（启动时启用 IOMMU）
 
 如果在 DXE 阶段安装了 DMAR 表，且在 PEI 阶段安装了 VTD_INFO_PPI，则在预启动环境中启用 IOMMU。
 
-雷电 4 所需，在固件阶段尽早启用 IOMMU 可以缓解 PCIe 设备上的恶意 Option ROM，这些 ROM 在作系统加载之前不应该进行 DMA（防止 DMA 攻击）。
+雷电 4 所需，在固件阶段尽早启用 IOMMU 可以缓解 PCIe 设备上的恶意 Option ROM，这些 ROM 在操作系统加载之前不应该进行 DMA（防止 DMA 攻击）。
 
 ### X2APIC Opt Out（是否关闭第二代高级可编程中断控制器）
 
