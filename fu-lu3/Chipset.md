@@ -5902,7 +5902,7 @@ PSE GBE Wake On Lan（WoL），PSE 千兆网网络唤醒。
 
 ##### PSE Debug (JTAG/SWD) Enable（启用 PSE JTAG/SWD 调试）
 
-SWD（Serial Wire Debug，串行线调试）和 JTAG（Joint Test Action Group，联合测试工作组)）是两种常用的调试接口协议。
+SWD（Serial Wire Debug，串行线调试）和 JTAG（Joint Test Action Group，联合测试工作组）是两种常用的调试接口协议。
 
 选项：
 
